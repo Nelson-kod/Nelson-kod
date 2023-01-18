@@ -1,4 +1,4 @@
-### Hi there friends👋
+### Hi there, i am Nelson, you are welcome to my page👋
 
 <!--
 **Nelson-kod/Nelson-kod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
